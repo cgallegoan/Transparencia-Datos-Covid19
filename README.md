@@ -5,7 +5,7 @@ Trabajo realizado para la asignatura de Métodos Estadísticos para la Toma de d
 
 Mayo - Junio 2020
 
-- Datos recogidos a través de una [**encuesta**](https://docs.google.com/forms/d/e/1FAIpQLSd8v4PzO35ZYIcIoVyjPksgCv64A-V_fobk89YpSyDWc-xsNw/viewform) a la población española 
+- Datos recogidos a través de una [**encuesta**](https://docs.google.com/forms/d/e/1FAIpQLSd8v4PzO35ZYIcIoVyjPksgCv64A-V_fobk89YpSyDWc-xsNw/viewform) a la población española. Resultados en Transparencia y presentación de datos relacionados con la crisis del COVID-19 en España.csv
 - Datos analizados con Statgraphics
 
 ### Introducción
