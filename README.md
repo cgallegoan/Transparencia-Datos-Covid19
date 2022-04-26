@@ -6,6 +6,7 @@ Trabajo realizado para la asignatura de Métodos Estadísticos para la Toma de d
 Mayo - Junio 2020
 
 - Datos recogidos a través de una [**encuesta**](https://docs.google.com/forms/d/e/1FAIpQLSd8v4PzO35ZYIcIoVyjPksgCv64A-V_fobk89YpSyDWc-xsNw/viewform) a la población española 
+- Datos analizados con Statgraphics
 
 ### Introducción
 Debido a la crisis generada por el COVID-19, se ha planteado la pregunta sobre el grado de transparencia del gobierno central con los datos sobre la pandemia. No obstante, los datos son proporcionados por las Comunidades Autónomas, de manera que su grado de transparencia adquiere importancia para la sociedad. A partir, de esta pregunta inicial, hemos realizado un formulario para recoger información de la opinión pública de la ciudadanía. De esta forma, podremos comparar lo que percibe la sociedad con la realidad presentada. Además, a partir de la muestra recogida en la encuesta se pretende extrapolar conclusiones para la población española. 
