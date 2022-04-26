@@ -1,4 +1,4 @@
-# Transparencia-Datos-Covid19
+# Transparencia de Datos sobre el Covid19
 Análisis sobre la transparencia de los datos COVID en España. Estudio de la opinión de los ciudadanos. 
 
 Trabajo realizado para la asignatura de Métodos Estadísticos para la Toma de decisiones I (MET), junto a Alejandro Losa Brito, Héctor Martínez Cabanes, [Daniel Oliver Belando](https://github.com/PandAsGod) y [Daniel Romero Alvarado](https://github.com/Daniframe)
